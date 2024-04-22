@@ -1,0 +1,22 @@
+{
+  "name": "com.globalview.nodejs",
+  "version": "0.0.1",
+  "description": "My node project",
+  "main": "service.js",
+  "scripts": {
+    "start": "node service.js"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Andiappan K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "0.0.1-security",
+    "socket.io": "^4.7.5",
+    "uuid": "^9.0.1"
+  }
+}
